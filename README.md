@@ -4,15 +4,16 @@
 
 ###  关于我 (About Me)
 -  **我的目标**：正在努力考取大学，深入钻研 **Kotlin**。
--  **后端探索**：尝试使用 **Java** 开发后端应用。
--  **脚本魔法**：利用 **Python** 编写自动化工具，解放双手。
+-  **探索**：尝试使用 **Java** 开发后端应用。
 -  **座右铭**：能通就行（Done is better than perfect）。
 -  **坐标**：BNE
 -  **状态**：不断学习中...
 
+  ![Snake](https://raw.githubusercontent.com/KyuharuTE/KyuharuTE/refs/heads/snake_output/github-snake.svg)
+
 ---
 
-### 🛠 技术栈 (Skills & Tools)
+### 🛠 技术栈
 
  编程语言
 <p align="left">
