@@ -9,7 +9,7 @@
 -  **坐标**：BNE
 -  **状态**：不断学习中...
 
-  ![Snake](https://raw.githubusercontent.com/KyuharuTE/KyuharuTE/refs/heads/snake_output/github-snake.svg)
+  ![snake](https://raw.githubusercontent.com/aertuiopwecv/aertuiopwecv/output/github-contribution-grid-snake.svg)
 
 ---
 
