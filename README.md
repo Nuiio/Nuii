@@ -66,7 +66,9 @@ C                12 mins               ▓░░░░░░░░░░░░�
 <a href="https://github.com/aertuiopwecv"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
+
 ---
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
 </p>
+##
