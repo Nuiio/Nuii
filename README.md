@@ -52,7 +52,7 @@ C                12 mins               █░░░░░░░░░░░░�
 ##  综合统计 (Statistics)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aertuiopwecv&show_icons=true&theme=radical&rank_icon=github" alt="Nuii's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aertuiopwecv&layout=compact&theme=radical" alt="Top Langs" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuiio&layout=compact&theme=radical" alt="Top Langs" width="42%" />
 </p>
 
 <p align="center">
