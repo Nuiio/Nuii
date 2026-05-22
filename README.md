@@ -48,15 +48,13 @@ C                12 mins               █░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 ---
 
-###  综合统计 (Statistics)
+
 ##  综合统计 (Statistics)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aertuiopwecv&show_icons=true&theme=radical&rank_icon=github" alt="Nuii's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuiio&layout=compact&theme=radical" alt="Top Langs" width="42%" />
-</p>
+
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aertuiopwecv&theme=radical" alt="GitHub Streak" width="91%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuiio&theme=radical" alt="GitHub Streak" width="91%" />
 </p>
 
 
