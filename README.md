@@ -38,11 +38,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin           9 hrs 41 mins         █████████████████▓░░░░░░░   70.07 %
-Markdown         2 hrs 20 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.93 %
-Python           49 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
-PowerShell       19 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
-JavaScript       14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+Kotlin           8 hrs 18 mins         █████████████████▓░░░░░░░   70.21 %
+Markdown         2 hrs 9 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.18 %
+Python           26 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+PowerShell       19 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+JavaScript       14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
 ```
 
 <!--END_SECTION:waka-->
