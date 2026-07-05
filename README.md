@@ -38,11 +38,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         45 mins               ████████▓░░░░░░░░░░░░░░░░   35.19 %
-Kotlin       36 mins               ███████░░░░░░░░░░░░░░░░░░   28.06 %
-Python       27 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.25 %
-Markdown     16 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.35 %
-Properties   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
