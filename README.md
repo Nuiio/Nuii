@@ -63,7 +63,7 @@ C++   43 mins   █████████████████████�
 <!--END_SECTION:waka-->
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=nuii&theme=transparent&hide_border=true&ring=7F52FF&fire=7F52FF&currStreakLabel=7F52FF&sideLabels=888888&dates=666666&v=2" />
+<im src="https://streak-stats.demolab.com/?user=nuii&theme=transparent&hide_border=true&ring=7F52FF&fire=7F52FF&currStreakLabel=7F52FF&sideLabels=888888&dates=666666&v=2" />
 </p>
 
 <p align="center">
@@ -76,7 +76,7 @@ C++   43 mins   █████████████████████�
 
 <p>
   <a href="https://github.com/Nuii">
-    <img src="https://img.shields.io/badge/github-aertuiopwecv-111111?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/github-nuii-111111?style=flat-square&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:Aertuiopwecv@gmail.com">
     <img src="https://img.shields.io/badge/mail-Aertuiopwecv%40gmail.com-111111?style=flat-square&logo=gmail&logoColor=white"/>
