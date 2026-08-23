@@ -62,9 +62,6 @@ C++   43 mins   █████████████████████�
 
 <!--END_SECTION:waka-->
 
-<p align="center">
-<im src="https://streak-stats.demolab.com/?user=nuii&theme=transparent&hide_border=true&ring=7F52FF&fire=7F52FF&currStreakLabel=7F52FF&sideLabels=888888&dates=666666&v=2" />
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/aertuiopwecv/aertuiopwecv/output/github-contribution-grid-snake.svg" width="85%" />
