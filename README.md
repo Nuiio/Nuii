@@ -57,11 +57,11 @@ currently learning
 <!--START_SECTION:waka-->
 
 ```txt
-Java                       1 hr 15 mins          ████████████████▒░░░░░░░░   65.81 %
-Groovy                     16 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.91 %
-Java Properties            7 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
-JSON                       6 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
-Properties                 3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+Java                       1 hr 14 mins          ████████████████▓░░░░░░░░   66.00 %
+Groovy                     16 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.30 %
+Java Properties            7 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
+JSON                       6 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
+Properties                 3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
 ```
 
 <!--END_SECTION:waka-->
