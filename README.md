@@ -57,7 +57,9 @@ currently learning
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java             27 mins               ████████████████████████▓   99.00 %
+GitIgnore file   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Markdown         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
