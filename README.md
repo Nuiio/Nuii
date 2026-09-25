@@ -57,9 +57,11 @@ currently learning
 <!--START_SECTION:waka-->
 
 ```txt
-Java             27 mins               ████████████████████████▓   99.00 %
-GitIgnore file   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-Markdown         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Java             42 mins               ████████████████▓░░░░░░░░   66.61 %
+Groovy           7 mins                ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
+JavaScript       7 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   11.17 %
+JSON             5 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
+Markdown         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 ```
 
 <!--END_SECTION:waka-->
