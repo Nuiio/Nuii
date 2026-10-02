@@ -57,11 +57,11 @@ currently learning
 <!--START_SECTION:waka-->
 
 ```txt
-HTML              3 hrs 3 mins          █████████▒░░░░░░░░░░░░░░░   37.92 %
-Java              2 hrs 15 mins         ███████░░░░░░░░░░░░░░░░░░   28.05 %
-JavaScript        1 hr 38 mins          █████░░░░░░░░░░░░░░░░░░░░   20.24 %
-Groovy            37 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
-Gradle            10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+HTML              3 hrs 5 mins          ██████████░░░░░░░░░░░░░░░   39.69 %
+Java              1 hr 59 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.69 %
+JavaScript        1 hr 30 mins          █████░░░░░░░░░░░░░░░░░░░░   19.46 %
+Groovy            29 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+Markdown          14 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
 ```
 
 <!--END_SECTION:waka-->
