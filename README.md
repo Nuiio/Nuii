@@ -57,9 +57,7 @@ currently learning
 <!--START_SECTION:waka-->
 
 ```txt
-C++        12 mins               ████████████████████████▒   97.38 %
-Other      0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-Markdown   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
