@@ -57,10 +57,7 @@ currently learning
 <!--START_SECTION:waka-->
 
 ```txt
-Java             43 mins               ████████████████████████▓   98.92 %
-GitIgnore file   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-JSON             0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-Markdown         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
