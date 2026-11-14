@@ -57,7 +57,11 @@ currently learning
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+HTML                       8 mins                ███████████████▒░░░░░░░░░   60.80 %
+Java                       2 mins                ████▒░░░░░░░░░░░░░░░░░░░░   17.63 %
+Other                      2 mins                ████░░░░░░░░░░░░░░░░░░░░░   15.68 %
+Gradle                     0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+Markdown                   0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
 ```
 
 <!--END_SECTION:waka-->
