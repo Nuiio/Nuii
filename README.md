@@ -64,7 +64,10 @@ No activity tracked
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aertuiopwecv/aertuiopwecv/output/github-contribution-grid-snake.svg" width="85%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aertuiopwecv/aertuiopwecv/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/aertuiopwecv/aertuiopwecv/output/github-contribution-grid-snake.svg" width="85%" alt="GitHub contribution graph animation" />
+  </picture>
 </p>
 
 ---
@@ -72,7 +75,7 @@ No activity tracked
 ### Find me
 
 <p>
-  <a href="https://github.com/Nuii">
+  <a href="https://github.com/Nuiio">
     <img src="https://img.shields.io/badge/github-nuii-111111?style=flat-square&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:Aertuiopwecv@gmail.com">
