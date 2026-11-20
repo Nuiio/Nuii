@@ -1,58 +1,52 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0F,50:181329,100:7F52FF&height=180&section=header&text=Nuii&fontSize=72&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101018,55:25213A,100:7F52FF&height=190&section=header&text=Nuii&fontSize=76&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn" width="100%" alt="Nuii" />
 
-### `kotlin / backend / things that somehow work`
+<br />
 
-<p>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-171717?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-171717?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-171717?style=flat-square&logo=linux&logoColor=white"/>
-</p>
+**Kotlin developer · backend enthusiast · occasional toolmaker**
+
+*Building things, breaking things, and learning how they work.*
+
+<br />
+
+<a href="https://github.com/Nuiio">
+  <img src="https://img.shields.io/badge/GitHub-Nuiio-18181B?style=flat-square&logo=github&logoColor=white" />
+</a>
+<img src="https://img.shields.io/badge/主力语言-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-Backend-18181B?style=flat-square" />
 
 </div>
 
 ---
 
-### About
+## About
 
-I'm **Nuii**, currently working towards university while spending most of my free time learning **Kotlin**.
-> 我是 **Nuii**，目前正在备考升学，闲暇时间大多用来学习 **Kotlin**。
+I'm **Nuii**, a high-school student who enjoys building software and exploring how things work under the hood.
 
-I'm mainly interested in backend development, the JVM ecosystem, and figuring out how software works by actually building things.
-> 主要对后端开发和 JVM 生态感兴趣，喜欢通过实际写代码做项目来理解软件的运作逻辑。
+Most of my time goes into **Kotlin**, the **JVM ecosystem**, and backend development. Lately, I've been working with **Java / Spring Boot**, while using Python for automation and small utilities.
 
-Recently I've also been exploring **Java / Spring Boot** and using Python whenever a small script can save me from doing something manually.
-> 最近在涉猎 **Java / Spring Boot**；只要小脚本能省事的场景，就会写写 Python 来自动化。
+I also enjoy exploring Android, cross-platform development, and Linux.
 
-```text
-Kotlin
-Java
-Python
-Linux
-
-currently learning
-```
-
-> 能通就行。
+> 能通就行。  
 > *Done is better than perfect.*
 
----
+## Toolbox
 
-### Stack
+<div align="center">
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,python,cpp,spring,gradle,cmake,npm,nodejs,idea,androidstudio,pycharm,webstorm,vscode,git,github,cloudflare,docker,bash,linux" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=kotlin,java,python,cpp,spring,gradle,androidstudio,idea,vscode,git,github,docker,bash,linux&perline=7" alt="Languages and tools" />
 
----
+<br /><br />
 
-### Activity
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Compose_Multiplatform-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+
+</div>
+
+## Activity
 
 <!--START_SECTION:waka-->
 
@@ -61,44 +55,30 @@ Java              1 hr 11 mins          ███████████▓░�
 YAML              39 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.78 %
 Other             24 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.86 %
 Markdown          11 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
-JSON              4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+JSON              4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
 ```
 
 <!--END_SECTION:waka-->
 
-
-<p align="center">
+<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aertuiopwecv/aertuiopwecv/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/aertuiopwecv/aertuiopwecv/output/github-contribution-grid-snake.svg" width="85%" alt="GitHub contribution graph animation" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nuiio/Nuiio/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Nuiio/Nuiio/output/github-contribution-grid-snake.svg" width="88%" alt="GitHub contribution graph animation" />
   </picture>
-</p>
+</div>
 
----
-
-### Find me
-
-<p>
-  <a href="https://github.com/Nuiio">
-    <img src="https://img.shields.io/badge/github-nuii-111111?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:Aertuiopwecv@gmail.com">
-    <img src="https://img.shields.io/badge/mail-Aertuiopwecv%40gmail.com-111111?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<br>
+## Find me
 
 <div align="center">
 
-```text
-────────────────────────────────────
+<a href="https://github.com/Nuiio">GitHub</a>
+&nbsp; · &nbsp;
+<a href="mailto:Aertuiopwecv@gmail.com">Email</a>
 
-          still figuring it out.
+<br /><br />
 
-────────────────────────────────────
-```
+<sub>still figuring it out.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:0B0B0F&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:101018&height=90&section=footer" width="100%" alt="" />
 
 </div>
