@@ -51,11 +51,11 @@ I also enjoy exploring Android, cross-platform development, and Linux.
 <!--START_SECTION:waka-->
 
 ```txt
-Java              1 hr 11 mins          █████████████░░░░░░░░░░░░   52.37 %
-YAML              39 mins               ███████▒░░░░░░░░░░░░░░░░░   29.05 %
-Markdown          11 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
-Other             7 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
-JSON              4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+Java             38 mins               ████████████████▓░░░░░░░░   66.03 %
+Other            9 mins                ████░░░░░░░░░░░░░░░░░░░░░   16.08 %
+Markdown         4 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
+Gradle           4 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
+Groovy           0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 ```
 
 <!--END_SECTION:waka-->
